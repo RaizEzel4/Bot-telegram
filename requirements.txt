@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+deep-translator
+nest_asyncio
+telegram
+langdetect
+flask
